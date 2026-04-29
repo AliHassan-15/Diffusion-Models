@@ -1,0 +1,13 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# provided assignment pdf
+GenAI_Assignment04.pdf
+
+# kaggle downloaded/executed notebook copy
+notebook*.ipynb
+
+# office temp files
+~$*.docx
+
